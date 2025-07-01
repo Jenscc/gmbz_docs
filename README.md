@@ -22,13 +22,21 @@ http://www.gmbz.org.cn/main/bzlb.html?from=groupmessage
 |13|GM/T 0008-2012|安全芯片密码检测准则|现行|推荐性 GM/T|20121122|20121122|http://www.gmbz.org.cn/file/2018-01-10/3ed52ba1-75c9-4324-b6b9-6a365d84f835.PDF|
 |14|GM/T 0009-2023|SM2密码算法使用规范|--|推荐性 GM/T|20231204|20240601|http://www.gmbz.org.cn/file/2024-06-28/6531a387-c1a1-4318-af98-b75a014e29ee.pdf|
 |15|GM/T 0010-2023|SM2密码算法加密签名消息语法规范|--|推荐性 GM/T|20231204|20240601|http://www.gmbz.org.cn/file/2024-06-28/b6cb488f-6d61-4bbd-bb98-0af0e733844a.pdf|
+<<<<<<< HEAD
 |16|GM/T 0011-2023|可信计算可信密码支撑平台功能与接口规范|--|推荐性 GM/T|20231204|20240601|http://www.gmbz.org.cn/file/2024-07-05/cdb9f3b1-3315-4563-a4ec-acf835db1fe3.pdf|
+=======
+|16|GM/T 0011-2023|可信计算可信密码支撑平台功能与接口规范|--|推荐性 GM/T|20231204|20240601|http://www.gmbz.org.cn/file/2024-07-01/8df7514e-1299-40ed-8432-98fe8a76e25c.pdf|
+>>>>>>> bdda0d825872d96817fbc62161bd75e8e56bc4bf
 |17|GM/T 0012-2020|可信计算 可信密码模块接口规范|--|推荐性 GM/T|20201228|20210701|http://www.gmbz.org.cn/file/2021-06-27/339a3a8f-020e-41b3-b081-dbf710acdc51.pdf|
 |18| GM/T 0013-2021 |可信计算 可信密码模块接口符合性 测试规范|--|推荐性 GM/T|20211018|20220501|http://www.gmbz.org.cn/file/2022-08-05/71499691-466a-4929-858c-24b0c7d2add2.pdf|
 |19|GM/T 0014-2023|数字证书认证系统密码协议规范|--|推荐性 GM/T|20231204|20240601|http://www.gmbz.org.cn/file/2024-06-28/29b96c47-bd01-4f3d-82eb-5b7e21c29fab.pdf|
 |20|GM/T 0015-2023|数字证书格式|--|推荐性 GM/T|20231204|20240601|http://www.gmbz.org.cn/file/2024-06-28/66b794b5-c49c-4c9a-af4d-ec6d3923e13e.pdf|
 |21|GM/T 0016-2023|智能密码钥匙密码应用接口规范|--|推荐性 GM/T|20231204|20240601|http://www.gmbz.org.cn/file/2024-06-28/4c9361ea-e8ee-4b26-8026-dad660a9049b.pdf|
+<<<<<<< HEAD
 |22|GM/T 0017-2023|智能密码钥匙密码应用接口数据格式规范|--|推荐性 GM/T|20231204|20240601|http://www.gmbz.org.cn/file/2024-07-05/631ee575-ba09-4eae-8e07-d23876e032ae.pdf|
+=======
+|22|GM/T 0017-2023|智能密码钥匙密码应用接口数据格式规范|--|推荐性 GM/T|20231204|20240601|http://www.gmbz.org.cn/file/2024-06-28/995b6c06-e64f-4623-90c4-985849b3fa1f.pdf|
+>>>>>>> bdda0d825872d96817fbc62161bd75e8e56bc4bf
 |23|GM/T 0018-2023|密码设备应用接口规范|--|推荐性 GM/T|20231204|20240601|http://www.gmbz.org.cn/file/2024-06-28/971aa96f-1aaa-46bf-a3ab-09f87fcdb632.pdf|
 |24|GM/T 0019-2023|通用密码服务接口规范|--|推荐性 GM/T|20231204|20240601|http://www.gmbz.org.cn/file/2024-06-28/2ad302e6-4ee7-4503-b3e9-50a95eed0122.pdf|
 |25|GM/T 0020-2023|证书应用综合服务接口规范|--|推荐性 GM/T|20231204|20240601|http://www.gmbz.org.cn/file/2024-06-28/ac581b38-8c63-442f-937e-7d8f71c223d6.pdf|
@@ -39,7 +47,11 @@ http://www.gmbz.org.cn/main/bzlb.html?from=groupmessage
 |30|GM/T 0025-2023|SSL VPN网关产品规范|--|推荐性 GM/T|20231204|20240601|http://www.gmbz.org.cn/file/2024-06-28/04cc0bb3-7412-4c3e-8f8a-bae8b7cdc5a1.pdf|
 |31|GM/T 0026-2023|安全认证网关产品规范|--|推荐性 GM/T|20231204|20240601|http://www.gmbz.org.cn/file/2024-06-28/3b3b99e4-5fd2-4088-a891-6efa1951a699.pdf|
 |32|GM/T 0027-2014|智能密码钥匙技术规范|现行|推荐性 GM/T|20140213|20140213|http://www.gmbz.org.cn/file/2018-01-10/a76e9a1e-e8fd-4483-bde7-383c9336cb22.pdf|
+<<<<<<< HEAD
 |33|GM/T 0028-2024|密码模块安全要求|--|推荐性 GM/T|20241227|20250701|http://www.gmbz.org.cn/file/2025-06-30/c0c9fd84-f73f-4541-bdd1-a5086d3f2245.pdf|
+=======
+|33|GM/T 0028-2014|密码模块安全技术要求|现行|推荐性 GM/T|20140213|20140213|http://www.gmbz.org.cn/file/2018-01-10/2820de0a-b190-4ea5-843d-0c5c70327ecb.pdf|
+>>>>>>> bdda0d825872d96817fbc62161bd75e8e56bc4bf
 |34|GM/T 0029-2014|签名验签服务器技术规范|现行|推荐性 GM/T|20140213|20140213|http://www.gmbz.org.cn/file/2018-01-10/b46c6fde-f80a-406b-8a11-8480ec4caa10.pdf|
 |35|GM/T 0030-2014|服务器密码机技术规范|现行|推荐性 GM/T|20140213|20140213|http://www.gmbz.org.cn/file/2018-01-10/8e37031f-7895-4a3b-b4e3-2f948d82fba2.pdf|
 |36|GM/T 0031-2014|安全电子签章密码技术规范|现行|推荐性 GM/T|20140213|20140213|http://www.gmbz.org.cn/file/2018-01-10/7567286f-7a64-43e6-aa08-2dc8197ea0a5.pdf|
@@ -55,18 +67,30 @@ http://www.gmbz.org.cn/main/bzlb.html?from=groupmessage
 |46|GM/T 0037-2014|证书认证系统检测规范|现行|推荐性 GM/T|20140213|20140213|http://www.gmbz.org.cn/file/2018-01-10/ea82b8c6-6f06-4685-b11b-35b48c4a8690.pdf|
 |47|GM/T 0038-2014|证书认证密钥管理系统检测规范|现行|推荐性 GM/T|20140213|20140213|http://www.gmbz.org.cn/file/2018-01-10/5c50b6d6-3da2-4448-9222-8159ade30012.pdf|
 |48|GM/T 0039-2015|密码模块安全检测要求|现行|推荐性 GM/T|20150401|20150401|http://www.gmbz.org.cn/file/2018-01-10/98870b4e-7ef8-4a37-b352-f712dc46e9d3.pdf|
+<<<<<<< HEAD
 |49|GM/T 0040-2024|射频识别标签模块密码检测规范|--|推荐性 GM/T|20241227|20250701|http://www.gmbz.org.cn/file/2025-06-30/d4e374a9-56ac-4a5b-af2b-ceaff5946615.pdf|
 |50|GM/T 0041-2024|智能IC卡密码检测规范|--|推荐性 GM/T|20241227|20250701|http://www.gmbz.org.cn/file/2025-06-30/5f5cfba6-77f7-4616-ace8-19f0bf5e8b42.pdf|
 |51|GM/T 0042-2015|三元对等密码安全协议测试规范|现行|推荐性 GM/T|20150401|20150401|http://www.gmbz.org.cn/file/2018-01-10/384aaf7c-7530-4290-b314-24264065db9e.pdf|
 |52|GM/T 0043-2024|数字证书互操作检测规范|--|推荐性 GM/T|20241227|20250701|http://www.gmbz.org.cn/file/2025-06-30/0baae786-9302-4b9c-ab7a-56e0316d0379.pdf|
+=======
+|49|GM/T 0040-2015|射频识别标签模块密码检测准则|现行|推荐性 GM/T|20150401|20150401|http://www.gmbz.org.cn/file/2018-01-10/0c340656-ca5a-4662-8b1c-713cd2b15dda.pdf|
+|50|GM/T 0041-2015|智能IC卡密码检测规范 |现行|推荐性 GM/T|20150401|20150401|http://www.gmbz.org.cn/file/2018-01-10/f444b697-688c-4f60-b3d8-3e208d10620b.pdf|
+|51|GM/T 0042-2015|三元对等密码安全协议测试规范|现行|推荐性 GM/T|20150401|20150401|http://www.gmbz.org.cn/file/2018-01-10/384aaf7c-7530-4290-b314-24264065db9e.pdf|
+|52|GM/T 0043-2015|数字证书互操作检测规范|现行|推荐性 GM/T|20150401|20150401|http://www.gmbz.org.cn/file/2018-01-10/b2b6f7ee-9af1-4f1f-bfac-fd010cb57171.pdf|
+>>>>>>> bdda0d825872d96817fbc62161bd75e8e56bc4bf
 |53|GM/T 0044.1-2016|SM9 标识密码算法 第1部分：总则|现行|推荐性 GM/T|20160328|20160328|http://www.gmbz.org.cn/file/2018-01-10/32fe1f79-b72d-4ec8-a3cd-f728777b0613.pdf|
 |54|GM/T 0044.2-2016|SM9 标识密码算法 第2部分：数字签名算法|现行|推荐性 GM/T|20160328|20160328|http://www.gmbz.org.cn/file/2018-01-10/ba17851a-a600-4054-bf55-9086ce7cef1d.pdf|
 |55|GM/T 0044.3-2016|SM9 标识密码算法 第3部分：密钥交换协议|现行|推荐性 GM/T|20160328|20160328|http://www.gmbz.org.cn/file/2018-01-10/1372c8b6-cd34-447b-914c-281341ced934.pdf|
 |56|GM/T 0044.4-2016|SM9 标识密码算法 第4部分：密钥封装机制和公钥加密算法|现行|推荐性 GM/T|20160328|20160328|http://www.gmbz.org.cn/file/2018-01-10/ab0a80a3-7d91-4901-b4ac-e3e433b6344e.pdf|
 |57|GM/T 0044.5-2016|SM9 标识密码算法 第5部分：参数定义|现行|推荐性 GM/T|20160328|20160328|http://www.gmbz.org.cn/file/2018-01-10/fc85a174-651d-401c-a825-bb2e0f5be5c4.pdf|
 |58|GM/T 0045-2016|金融数据密码机技术规范|现行|推荐性 GM/T|20160328|20160328|http://www.gmbz.org.cn/file/2018-01-10/8501ad6e-9ee6-4dbe-b23b-b15036ae7208.pdf|
+<<<<<<< HEAD
 |59|GM/T 0046-2024|金融数据密码机检测规范|--|推荐性 GM/T|20241227|20250701|http://www.gmbz.org.cn/file/2025-06-30/ed9c1dfa-9b2f-4a76-81dd-b9be2483d5b1.pdf|
 |60|GM/T 0047-2024|安全电子签章密码检测规范|--|推荐性 GM/T|20241227|20250701|http://www.gmbz.org.cn/file/2025-06-30/44124c99-36e5-4eed-8741-fb577025c7d3.pdf|
+=======
+|59|GM/T 0046-2016|金融数据密码机检测规范|现行|推荐性 GM/T|20161223|20161223|http://www.gmbz.org.cn/file/2018-01-10/25bdc1d5-0dc7-4277-a74f-ddcb5a6a94e6.pdf|
+|60|GM/T 0047-2016|安全电子签章密码检测规范|现行|推荐性 GM/T|20161223|20161223|http://www.gmbz.org.cn/file/2018-01-10/221831b6-37f8-4eb5-95c1-d2cfc902ae4d.pdf|
+>>>>>>> bdda0d825872d96817fbc62161bd75e8e56bc4bf
 |61|GM/T 0048-2016|智能密码钥匙密码检测规范|现行|推荐性 GM/T|20161223|20161223|http://www.gmbz.org.cn/file/2018-01-10/4f418605-c644-463a-8900-6cb51e18725c.pdf|
 |62|GM/T 0049-2016|密码键盘密码检测规范|现行|推荐性 GM/T|20161223|20161223|http://www.gmbz.org.cn/file/2018-01-10/a5c540d1-b361-47d3-8b6a-6ecbf3603c9e.pdf|
 |63|GM/T 0050-2016|密码设备管理 设备管理技术规范|现行|推荐性 GM/T|20161223|20161223|http://www.gmbz.org.cn/file/2018-01-10/254332a0-faac-4a43-b01d-fcdff322f98b.pdf|
